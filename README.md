@@ -1,4 +1,4 @@
-<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Enthusiast</a>,
+<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Enthusiast</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -30,15 +30,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="custyblak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="custyblak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[twitter]: https://twitter.com/custyblak
+[linkedin]: https://linkedin.com/in/constantine-ukah-4b89b0155
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
