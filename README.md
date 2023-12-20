@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing</b>
-  - [Phishing Defense Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main)
-  - [Decoding Deception: Phishing Mail Mastery](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main)
+  - [Decoding Deception: Phishing Mail Analyses](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 YouTube Project Demostration</h2>
 
