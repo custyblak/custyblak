@@ -4,7 +4,7 @@
 
 - <b>Phishing</b>
   - [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main)
-  - [Decoding Deception: Phishing Mail Analyses](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
 
 <h2>📺 YouTube Project Demostration</h2>
 
