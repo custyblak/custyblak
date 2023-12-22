@@ -8,11 +8,17 @@
 
 <h2>📺 YouTube Project Demostration</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- coming soon
 
 <h2>📄 Certifications and Trainings</h2>
 
+- [Security Engineer (TryHackme)](https://imgur.com/KFMcwYv.png)
+- [Fortinet Network Security Expert Level 4)](https://imgur.com/gIb3q7M.png)
+- [Foundations of Operationalizing MITRE ATT&CK](https://www.credly.com/badges/e3449d72-7b60-4142-95ea-f819e511c979/linked_in_profile)
+
 <h2>📝 Project Material Guides</h2>
+
+- coming soon
 
 <h2> 🤳 Connect with me:</h2>
 
