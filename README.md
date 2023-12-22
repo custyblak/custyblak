@@ -9,7 +9,7 @@
 <h2>👨‍💻 Scripting Projects:</h2>
 
 - <b>Python</b>
-  - [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Python-Projects/tree/main)
+  - [Successful and Failed Logon Attempts](https://github.com/custyblak/Python-Projects/tree/main)
   - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
 
 <h2>📺 YouTube Project Demostration</h2>
