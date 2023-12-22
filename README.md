@@ -5,6 +5,12 @@
 - <b>Phishing</b>
   - [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main)
   - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
+ 
+<h2>👨‍💻 Scripting Projects:</h2>
+
+- <b>Python</b>
+  - [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main)
+  - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
 
 <h2>📺 YouTube Project Demostration</h2>
 
