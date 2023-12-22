@@ -9,8 +9,8 @@
 <h2>👨‍💻 Scripting Projects:</h2>
 
 - <b>Python</b>
-  - [Successful and Failed Logon Attempts](https://github.com/custyblak/Python-Projects/tree/main)
-  - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
+  - [Successful and Failed Logon Attempts](https://github.com/custyblak/Python-Projects/blob/main/Successful%20and%20Failed%20Logon%20Attempts.py)
+  - [Web Scraping with Python](https://github.com/custyblak/Python-Projects/blob/main/Site%20Scraping%20with%20Python.py)
 
 <h2>📺 YouTube Project Demostration</h2>
 
