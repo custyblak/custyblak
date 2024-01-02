@@ -5,6 +5,10 @@
 - <b>Phishing</b>
   - [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main)
   - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
+
+- <b>System hardening and Malware detection with Sysinternals</b>
+  - [Active Directory and Endpoint hardening, detection using Sysinternals](https://github.com/custyblak/Phishing_MindMap/tree/main)
+  
  
 <h2>👨‍💻 Scripting Projects:</h2>
 
