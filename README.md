@@ -7,7 +7,7 @@
   - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
  
 - <b>Network Forensics</b>
-  - [Network Forensics using Wireshark, Hex Editor and Networkminer](https://github.com/custyblak/PCAP-Network-Forensics)
+  - [Tomcat Takeover Blue Team Lab (Cyberdefender)](https://github.com/custyblak/PCAP-Network-Forensics)
 
 - <b>System hardening and Malware detection with Sysinternals</b>
   - [Active Directory and Endpoint hardening, detection using Sysinternals](https://github.com/custyblak/Active-Directory-and-Endpoint-hardening-detection-using-Sysinternals)
