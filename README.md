@@ -7,8 +7,8 @@
   - [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
  
 - <b>Network Forensics</b>
-  - [Tomcat Takeover Lab Challenge](https://github.com/custyblak/PCAP-Network-Forensics/blob/main/Tomcat%20Takeover%20Blue%20Team%20LAB/Readme.md)
-  - [OpenWire Lab Challenge](https://github.com/custyblak/PCAP-Network-Forensics/tree/main/OpenWire%20Blue%20Team%20LAB)
+  - [Tomcat Takeover Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/Tomcat%20Takeover%20Challenge)
+  - [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge)
 
 - <b>System hardening and Malware detection with Sysinternals</b>
   - [Active Directory and Endpoint hardening, detection using Sysinternals](https://github.com/custyblak/Active-Directory-and-Endpoint-hardening-detection-using-Sysinternals)
