@@ -10,7 +10,7 @@
   - [Tomcat Takeover Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/Tomcat%20Takeover%20Challenge)
   - [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge)
 
-- <b>System hardening and Malware detection with Sysinternals</b>
+- <b>Active Directory Security and Detection</b>
   - [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-and-Endpoint-hardening-detection-using-Sysinternals)
   
  
