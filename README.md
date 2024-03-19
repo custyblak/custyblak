@@ -11,7 +11,7 @@
   - [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge)
 
 - <b>Active Directory Security and Detection</b>
-  - [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-and-Endpoint-hardening-detection-using-Sysinternals)
+  - [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)
   
  
 <h2>👨‍💻 Scripting Projects:</h2>
