@@ -11,7 +11,7 @@
   - [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge)
 
 - <b>System hardening and Malware detection with Sysinternals</b>
-  - [Active Directory and Endpoint hardening, detection using Sysinternals](https://github.com/custyblak/Active-Directory-and-Endpoint-hardening-detection-using-Sysinternals)
+  - [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-and-Endpoint-hardening-detection-using-Sysinternals)
   
  
 <h2>👨‍💻 Scripting Projects:</h2>
