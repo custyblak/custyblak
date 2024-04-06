@@ -1,4 +1,37 @@
-<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Enthusiast</a>
+<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Enthusiast</a></h1>
+
+Motivated Security Engineer with 2 years of experience seeking to leverage skills in firewall management, network traffic monitoring, and attack detection. Possesses strong understanding of Azure Cloud and working knowledge of compliance frameworks (ISO27001, SOC2). Eager to expand expertise in Active Directory /Azure AD security, Incident response, and Cloud security best practices.
+
+<h2>Skills:</h2>
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | [Active Directory Detection LAB ](https://github.com/custyblak/Active-Directory-Detection-and-Security)|
+| Network Forensics       | [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge) & [Tomcat Takeover Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/Tomcat%20Takeover%20Challenge)
+| Active Directory Security        | [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)|
+| Incident Response Planning and Execution      | Coming soon
+| Phishing Mail Analysis                        | [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main) & [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/
+</div>
+
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
