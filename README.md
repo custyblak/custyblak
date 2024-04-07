@@ -14,23 +14,25 @@ Motivated Security Engineer with 2 years of experience seeking to leverage skill
 
 ## Tools
 
-### Network
+<h3>Network</h3>
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"
+    <img src="https://img.shields.io/badge/-NetworkMiner-1679A7?&style=for-the-badge&logo=NetworkMiner&logoColor=white"
 </div>
 
 
-### Endpoint
+<h3>Endpoint</h3>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+<h3>SIEM</h3>
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault-000000?&style=for-the-badge&logo=AlienVault&logoColor=white" />
 </div>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
