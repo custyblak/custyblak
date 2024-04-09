@@ -39,7 +39,7 @@ Motivated Security Engineer with 2 years of experience seeking to leverage skill
 <div>
     <img src="https://img.shields.io/badge/-TryHackMe_Security_Engineer-1abc9c?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet_NSE4-2C54B2?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Foundations_of_Operationalizing_MITRE_ATT_&_CK-FF7A00?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Foundations_of_Operationalizing_MITRE_ATT&CK-FF7A00?&style=for-the-badge" />
 </div>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
