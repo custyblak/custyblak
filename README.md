@@ -8,7 +8,7 @@ Motivated Security Engineer with 2 years of experience seeking to leverage skill
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Active Directory Detection LAB ](https://github.com/custyblak/Active-Directory-Detection-and-Security)|
 | Network Forensics       | [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge) & [Tomcat Takeover Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/Tomcat%20Takeover%20Challenge)
-| Active Directory Security        | [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)|
+| Active Directory Security        | [Active Directory Security Hardening Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)|
 | Phishing Mail Analysis                        | [Phishing Mindmap: Your Cybersecurity Arsenal!](https://github.com/custyblak/Phishing_MindMap/tree/main) & [Decoding Deception: Phishing Mail Analyses](https://github.com/custyblak/Phishing-Mail-Analyses)
 
 ## Tools
@@ -53,7 +53,7 @@ Motivated Security Engineer with 2 years of experience seeking to leverage skill
   - [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge)
 
 - <b>Active Directory Security Hardening Lab</b>
-  - [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)
+  - [Active Directory Security Hardening Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)
   
  
 <h2>👨‍💻 Scripting Projects:</h2>
