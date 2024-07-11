@@ -1,4 +1,4 @@
-<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Enthusiast</a></h1>
+<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Engineer Enthusiast</a></h1>
 
 Motivated Security Engineer with 2 years of experience seeking to leverage skills in firewall management, network traffic monitoring, and attack detection. Possesses strong understanding of Azure Cloud and working knowledge of compliance frameworks (ISO27001, SOC2, PCI DSS). Eager to expand expertise in Active Directory /Azure AD security, Incident response, and Cloud security best practices.
 
@@ -52,7 +52,7 @@ Motivated Security Engineer with 2 years of experience seeking to leverage skill
   - [Tomcat Takeover Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/Tomcat%20Takeover%20Challenge)
   - [OpenWire Lab Challenge](https://github.com/custyblak/Network_Forensics_Exercises/tree/main/Cyberdefender/OpenWire%20Challenge)
 
-- <b>Active Directory Security and Detection</b>
+- <b>Active Directory Security Hardening Lab</b>
   - [Attack & Defend Active Directory Lab ](https://github.com/custyblak/Active-Directory-Detection-and-Security)
   
  
