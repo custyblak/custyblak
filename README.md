@@ -1,6 +1,8 @@
-<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Engineer Enthusiast</a></h1>
+<h1>Hi, I'm Constantine <br/><a href="https://www.linkedin.com/in/constantine-ukah-4b89b0155/">Security Engineer</a> and <a href="https://github.com/custyblak">Cloud Security Engineer </a></h1>
 
-Motivated Security Engineer with 2 years of experience seeking to leverage skills in firewall management, network traffic monitoring, and attack detection. Possesses strong understanding of Azure Cloud and working knowledge of compliance frameworks (ISO27001, SOC2, PCI DSS). Eager to expand expertise in Active Directory /Azure AD security, Incident response, and Cloud security best practices.
+Motivated Security Engineer with 5 years of experience seeking to leverage skills in firewall management, network traffic monitoring, and attack detection. Possesses strong understanding of AWS Cloud and working knowledge of compliance frameworks (ISO27001, SOC2, PCI DSS). Eager to expand expertise in Incident response and Cloud security best practices.
+
+My interest spans across, Network Security, Cloud Security and DevSecOps. Checkout my technical writeups [here](https://dev.to/constantineukah)
 
 <h2>Skills:</h2>
 
